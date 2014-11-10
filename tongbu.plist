@@ -1,40 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-   <key>items</key>
-   <array>
-       <dict>
-           <key>assets</key>
-           <array>
-               <dict>
-                   <key>kind</key>
-                   <string>software-package</string>
-                   <key>url</key>
-                   <string>http://qd.leaderhero.com/qd/tbtui/20141025/tbtui_zb_iPhone_v3.2.1_80YEa_14102512.ipa</string>
-               </dict>
-               <dict>
-                   <key>kind</key>
-                   <string>display-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>http://www.tongbu.com/logo/newtui50.png</string>
-               </dict>
-           </array><key>metadata</key>
-           <dict>
-               <key>bundle-identifier</key>
-               <string>com.tongbu.tui</string>
-               <key>bundle-version</key>
-               <string>3.2.1</string>
-               <key>kind</key>
-               <string>software</string>
-               <key>subtitle</key>
-               <string>同步网络</string>
-               <key>title</key>
-               <string>同步推3.2.1</string>
-           </dict>
-       </dict>
-   </array>
+<dict>  
+    <key>items</key>  
+    <array>  
+        <dict>  
+            <key>assets</key>  
+            <array>  
+                <dict>  
+                    <key>kind</key>  
+                    <string>software-package</string>  
+                    <key>url</key>  
+                    <string>http://192.168.8.41:9334/ios_ipa/2014_11_10/15_36_51/1415605011678503300</string>  
+                </dict>  
+            </array>  
+            <key>metadata</key>  
+            <dict>  
+                <key>bundle-identifier</key>  
+                <string>com.locojoy.T1</string>  
+                <key>bundle-version</key>  
+                <string>1.0.0</string>  
+                <key>kind</key>  
+                <string>software</string>  
+                <key>title</key>  
+                <string>身边</string>  
+            </dict>  
+        </dict>  
+    </array>  
 </dict>
-</plist>
